@@ -1,0 +1,22 @@
+{
+  "name": "@peerislands/npm-sample",
+  "version": "1.0.0",
+  "description": "it example",
+  "main": "\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarbhirde/npm-package-example.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "Sagar Bhirde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarbhirde/npm-package-example/issues"
+  },
+  "homepage": "https://github.com/sagarbhirde/npm-package-example#readme"
+}
